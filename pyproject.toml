@@ -3,8 +3,8 @@ requires = ["setuptools>=61.2"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "unoserver"
-version = "3.5.dev0"
+name = "unoserver-fork"
+version = "3.5.dev0+fork.1"
 description = "A server for file conversions with Libre Office"
 classifiers = [
     "Development Status :: 5 - Production/Stable",
